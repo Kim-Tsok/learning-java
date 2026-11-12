@@ -35,7 +35,7 @@ public class TimedComputation {
 
         System.out.print("\nRun time in nanoseconds was: ");
         System.out.println(compTime);
-        System.out.println("(This is probably not perfectly accurate!");
+        System.out.println("This is probably not perfectly accurate!");
         System.out.print("\nRun time in seconds was:  ");
         System.out.println(seconds);
   }
